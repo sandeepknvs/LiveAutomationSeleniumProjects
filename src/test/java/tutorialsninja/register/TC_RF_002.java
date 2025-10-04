@@ -40,8 +40,8 @@ public class TC_RF_002 {
 		
 		 String host = "imap.gmail.com";
 		 String mailStoreType = "imap";
-	        String user = email;       // Your Gmail address
-	        String password = appPasscode;      // 16-digit App Password (not your normal Gmail pwd)
+	        String user = "kjhkjhjk@mail.com";       // Your Gmail address
+	        String password = "kjhkjh";      // 16-digit App Password (not your normal Gmail pwd)
 
 	        try {
 	            // Set IMAP properties
